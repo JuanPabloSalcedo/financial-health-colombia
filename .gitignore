@@ -1,0 +1,20 @@
+# Entorno virtual
+.venv/
+
+# Cachés de Python
+__pycache__/
+*.pyc
+
+# Checkpoints de notebooks
+.ipynb_checkpoints/
+
+# Archivos del sistema y del editor
+.DS_Store
+.vscode/
+
+# Modelo entrenado (se regenera al correr 04_modelo; excede el limite de GitHub)
+outputs/*.joblib
+outputs/*.pkl
+
+# Cache de pytest (autogenerada)
+.pytest_cache/
