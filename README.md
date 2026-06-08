@@ -73,6 +73,7 @@ Luego se ejecutan los notebooks en orden, del 01 al 04. Las pruebas unitarias se
 ## Estado del proyecto
 
 Todas las fases están completas: la carga y limpieza de datos, el cálculo de ratios y del puntaje Z'' con la etiqueta temporal, el análisis exploratorio, el modelo de clasificación, y la interpretación con conclusiones de gestión.
+El modelo entrenado se genera al ejecutar el notebook 04_modelo y no se incluye en el repositorio por su tamaño.
 
 ## Autor
 
